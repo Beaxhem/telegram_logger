@@ -4,8 +4,7 @@ This is a simple package, giving you an ability to log directly to Telegram bot 
 
 ## Simple example
 
-First of all, you need to register your project in the [@adv_logger_bot](http://t.me/adv_logger_bot). You will see something like this:
-![Main menu](/images/main_menu.png)
+First of all, you need to register your project in the [@adv_logger_bot](http://t.me/adv_logger_bot). 
 
 You will get random Token.
 
@@ -20,5 +19,4 @@ f = TelegramLogger(bot_url="<BOT URL>", token="<YOUR TOKEN>>")
 logger.addFilter(f)
 ```
 
-Then on every ```logger.info()```, ```logger.warning()``` or ```logger.error()``` you will get message from bot:
-![Test message](/images/test_message.png)
+Then on every ```logger.info()```, ```logger.warning()``` or ```logger.error()``` you will get message from bot
