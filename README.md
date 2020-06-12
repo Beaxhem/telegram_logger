@@ -20,3 +20,4 @@ logger.addFilter(f)
 ```
 
 Then on every ```logger.info()```, ```logger.warning()``` or ```logger.error()``` you will get message from bot
+![Message example](./images/test_message.png)
