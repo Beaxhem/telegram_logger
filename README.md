@@ -6,6 +6,8 @@ This is a simple package, giving you an ability to log directly to Telegram bot 
 
 First of all, you need to register your project in the [@adv_logger_bot](http://t.me/adv_logger_bot). 
 
+![Bot usage](./images/main_menu.png)
+
 You will get random Token.
 
 In your program, you have to create something like this:
